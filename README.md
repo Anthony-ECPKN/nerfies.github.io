@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [Skyevent website](https://anthony-ecpkn.github.io/SkyEvent.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find SkyEvent useful for your work please cite:
 ```
 @inproceedings{skyevents2026,
   title={SkyEvents: A Large-Scale Event-Enhanced UAV Dataset for Robust 3D Scene Reconstruction},
